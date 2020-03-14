@@ -1,0 +1,11 @@
+credentials        = "./terraform-gke-keyfile.json"
+project_id         = "scb-api-payment"
+region             = "asia-southeast1"
+zones              = ["asia-southeast1-a", "asia-southeast1-b", "asia-southeast1-c"]
+name               = "gke-cluster"
+machine_type       = "n2-custom-2-4096"
+min_count          = 1
+max_count          = 3
+disk_size_gb       = 10
+service_account    = "scb-api@scb-api-payment.iam.gserviceaccount.com"
+initial_node_count = 3

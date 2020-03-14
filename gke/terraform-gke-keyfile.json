@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scb-api-payment",
+  "private_key_id": "b9d771613f52ef38222b0398dbc66b1490c2abc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCh79r9yfieBjdm\nn1ew0XzN0HiyUSp/QMxDzQx1yjyVEucUWGy/S7raZNd7xVowYX6G5fppAX4OKhjv\nhsZKF4dHlcwooWTUr4xzVZ7i+IfHtNnLe/P1O3MT8LUE3Dv2T0hKz0GI2OM5Zo4A\nK/6sIQ8o6QJwMiNk/pp/1S0T+VouxIeFHb94cF3z7QrgCY3dfm73gxhuoPkghCmj\n9vrM0gKNXLH6nN4MG4tw0Yr45XgBFBLcDkyTfpAM6c7mDIC48ZKnsUdyY8dOQE6j\nRyN1qXTKdLTy2V5u5FXrpfk1cPbgGkbqJrth8kX5Y6RGsIMXthv5YFh3SrK0CSEG\nXGeqotBNAgMBAAECggEAATVR8/zSzxMKzMg5lkcp4DtC+0mhwItSOttH0YUtyIr4\nkG1MemztOv3voavKTXwcvpLuuGPbde2YfAkMZ7cfOkiC2nbB0thwetfTtKvYD4Ro\n75zAKD9GT4rHPv8Jr3/N8Uj0mznLED2Up6msX8prW4nJi97D5tgDfRqxGGoO4zRv\nI+QrrGicpv+EDV00ZfgkKvu5kXGumfpiH/40HRuThWw1U+4UZ0SbV9GbXK26tGZd\npOCTcEikDWyO/tBy4T4fq/uM1DuPdOJLCwKbMe2xAnvHmJuxJE7X3UYQu5Wmajyq\nVRtmcW8L0mfxQPDDpfGeo+wUGV+B1uOxZnVkwLBmfQKBgQDjPlXaC6q4Vk6foPhX\nZYoK+eiAXMGqUJxol1WXVZXfU+ZqaF0YY0RGl/Hv2UY0oF73IrcED7WQT4hWE92P\nzSV2zQZeHRkScwPWgf9l/766ruTzszuR0chjO3u9ckHBLssXSxzVGCJ+6avTkR7H\n9ki9tsAa4Yqyo0F9NB1qtdkqXwKBgQC2beHGwfS7SLiRhqeWLmE12xudN29AVOL9\nDo1wZAbu348D9xMZPYO1tEDisii/Yj25LOxSAvVSa+pp96TkhKmZ91hLWDqj3wgn\n34AsKpb/HtAbFyedf0bJROF2Dl7ZnNmeueDG9tb5FROb5TMwjSGtBxeXZL7XjA0d\nuLOfNA2c0wKBgQDDmZVWUTKK5ydX+buppqoS1pfNXYoJqsdms9SlpbKSf+pWbyyq\n4E8VoJZMiK4IgH4dpZD4+viilgLZbNIKhF+aCdJQUiWRntSP4GfRCTjIAeDq77z3\nwCYHXF0fbWix+zAvBaV0uwh+S25udnyTTCfCvLpQqRC0wReOyLwFbS/XawKBgDyC\nkgMFTpHYey/6BBhyZdghRzWMr6AdB/V8IDoJU6tkB+H+0BztJITety76fT2N7n8/\ngVtqk8i09toTRGRwBHmHa4gCSeEVF3VyUudTcSZKKCj0MzWwg+A6srYf6iIwPpbB\nfOdB9OhFr21kRuhxx5vG4HJc/lgsoiUboKjL8T/1AoGAa5ZZKCSHyrxTf4/objlF\nDxyDfDhnQKFQ35vbb0zZ9lqEpF8iSvyN0C3h2MLPtsyHUk83UmCqYepErcpeG1nj\n9j8e7CG5/Wf5gYcgEhJA85gHzWICM48YAfSRMhkKs6lL+8MY8L/mL2opFTAluvYl\nee3YV+L5ic2Rp6LeYUbHblQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scb-api@scb-api-payment.iam.gserviceaccount.com",
+  "client_id": "103671842847757535903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scb-api%40scb-api-payment.iam.gserviceaccount.com"
+}
