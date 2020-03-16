@@ -1,5 +1,9 @@
 Pre-requisites
 ===============
+## Setup Credential for Defualt 
+```bash
+aws configure
+```
 ## Configuration IAM
 ```bash
 # Create aws Group
@@ -14,10 +18,9 @@ aws iam create-user --user-name <xxxxx>
 aws iam add-user-to-group --user-name <xxxxx> --group-name <xxxxx>
 
 ```
-## Setup Credential
+## Setup Credential for Profile
 ```bash
 aws configure set profile.<xxxxx>.aws_secret_access_key <xxxxx>
 aws configure set profile.<xxxxx>.aws_access_key_id <xxxxxx>
 aws configure set profile.<xxxxx>.region <xxxxx>
 ```
-## 
