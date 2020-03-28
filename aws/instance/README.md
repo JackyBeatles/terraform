@@ -37,7 +37,8 @@ profile= "user1"  # if your want change profile name
 
 ## Terrafrom deploy 
 ```bash
-sudo terrafrom plan  -var-file=prod.tfvars  # show list resource 
-sudo terrafrom apply  -var-file=prod.tfvars  # create resource
-sudo terrafrom destroy  -var-file=prod.tfvars  # delete resource
+sudo terraform init  # init
+sudo terraform plan  -var-file=prod.tfvars  # show list resource 
+sudo terraform apply  -var-file=prod.tfvars  # create resource
+sudo terraform destroy  -var-file=prod.tfvars  # delete resource
 ```
